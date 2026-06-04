@@ -1,5 +1,7 @@
 # miniguia-estudos-notebooklm
 
+notebookLM link https://notebooklm.google.com/notebook/d2425cbc-26a1-4172-ad47-a3ecb1ba1f0a
+
 
 ## &#127919; Objetivos
 
